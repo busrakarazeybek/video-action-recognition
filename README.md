@@ -13,6 +13,7 @@ This project aims to detect and classify human actions in videos using deep lear
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/video-action-recognition.git
-![Example Plot](output/example.png)
 
-![Example Plot](output2/example.png)
+![Example Plot](outputs/output.png)
+
+![Example Plot](outputs/output2.png)
